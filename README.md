@@ -1,35 +1,31 @@
-👋 Hi there! I'm JokerD
+Hi, I'm JokerD 👋
+Technical Artist · Game Localization · Code Research
 
-🛠️ Technical Artist at Soluis Group, working on Unreal Engine and Digital Twin projects.
+I'm a Technical Artist with 7+ years of experience across game
+development, virtual production, and real-time 3D production. I work
+with Unreal Engine and Unity, building technical workflows and solving
+production challenges through research, experimentation, and practical
+tools.
 
-🎮 7+ years of experience in Game Technical Art, Virtual Production, Unreal Engine, and Unity.
+What I Do
+- Technical Art: shaders, materials, rendering, procedural
+  workflows, pipeline development, and optimization.
+- Code Research: source-code exploration, technical investigation,
+  debugging, and experimentation with game data formats and
+  localization workflows.
+- Project Delivery: turning technical research into practical
+  tools and production-ready solutions.
+- Real-time Production: Unreal Engine workflows for virtual
+  production and Digital Twin visualization.
+Devil Cat Team --- Vietnamese Game Localization
+I'm also known as JokerD, contributing to Vietnamese game
+localization with Devil Cat Team.
 
-💻 Interested in code research, reverse engineering, source code exploration, debugging, and technical experimentation.
-
-⚙️ Passionate about shaders, rendering, procedural generation, tools development, and pipeline optimization.
-
-🚀 Experienced in developing technical solutions and delivering projects across game development, virtual production, and digital twin visualization.
-
-🔬 Always exploring open-source technologies and experimenting with new tools and workflows.
-
-🎮 Devil Cat Team – Game Localization
-
-🇻🇳 JokerD, Technical Contributor at Devil Cat Team.
-
-💎 Pokémon Omega Ruby & Alpha Sapphire – Vietnamese Localization (3DS).
-
-Technical: JokerD
-
-🐱 Contributing to game localization, technical research, localization tools, and game modification workflows.
-
-🎯 Passionate about making games more accessible to Vietnamese players.
-
-🤝 Let's Collaborate
-
-YouTube & Creative Projects
-
-Game Localization & Technical Research
-
-Open-source Tools & Development
-
-Unreal Engine & Real-time Technologies
+Technologies & Interests
+Unreal Engine · Unity · C++ · Python · Technical Art ·
+Shaders · Procedural Workflows · Game Localization ·
+Game Data Research · Tool Development
+Currently Exploring
+- Real-time rendering and procedural workflows.
+- Game data structures and localization tooling.
+- Practical ways to bridge code research and production needs.
